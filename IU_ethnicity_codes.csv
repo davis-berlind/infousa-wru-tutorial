@@ -1,0 +1,169 @@
+description,subcode,code,race
+Bangladesh,BD,A,A
+Bhutanese,BT,A,A
+Chinese,CN,F,A
+Indonesian,ID,F,A
+Indian,IN,A,A
+Japanese,JP,F,A
+Korean,K5,F,A
+Kirghiz (Kyrgyzstan),KG,C,A
+"Khmer (Kampuchean, Cambodian)",KH,F,A
+Kazakh (Kazakhstan),KZ,C,A
+Laotian,LA,F,A
+Sri Lankan (Ceylon),LK,A,A
+Myanmar (Burma),MM,F,A
+Mongolian,MN,F,A
+Maldivian,MV,X,A
+Malay (Malaysian),MY,F,A
+Nepalese,NP,A,A
+other Asian,O8,A,A
+Pili (Pilipino),P5,P,A
+Filipino (Philippine),PH,P,A
+Pakistani,PK,A,A
+Telugan,T4,A,A
+Tibetan,T5,F,A
+Thai,TH,F,A
+Tajik (Tajikistan),TJ,C,A
+Turkmenistan,TM,C,A
+Uzbekistani,UZ,C,A
+Vietnamese,VN,F,A
+African American 2,B5,B,B
+African American 65%+,Q6,B,B
+African American 75%+,Q7,B,B
+African American 85%+,Q8,B,B
+African American 95%+,Q9,B,B
+Ashanti (Asante),A8,B,B
+Angolan,AO,B,B
+Burkina Faso,BF,B,B
+Burundian,BI,B,B
+Beninese,BJ,B,B
+Botswanan,BW,B,B
+Zairian (Democratic Republic of the Congo),CD,B,B
+Central African Republic,CF,B,B
+Congo,CG,B,B
+Ivory Coast (Cote d'Ivoire),CI,B,B
+Cameroonian,CM,B,B
+Djiboutian,DJ,B,B
+Ethiopian,ET,B,B
+Gabonese,GA,B,B
+Ghanaian,GH,B,B
+Gambian,GM,B,B
+Guinean,GN,B,B
+Guinea-Bissau,GW,B,B
+Hausa,H2,B,B
+Kenyan,KE,B,B
+Comoros,KM,B,B
+Liberian,LR,B,B
+Lesotho (Basotho),LS,B,B
+Libyan,LY,I,B
+Madagascar,MG,B,B
+Malian,ML,B,B
+Mauritanian,MR,B,B
+Malawian,MW,B,B
+Mozambique (Mozambican),MZ,B,B
+Namibian,NAM,B,B
+Niger,NE,B,B
+Nigerian,NG,B,B
+Ruandan (Rwandan),RW,B,B
+Swahili,S9,B,B
+Seychelles,SC,B,B
+Sudanese,SD,B,B
+Sierra Leone,SL,B,B
+Senegalese,SN,B,B
+Somalian,SO,B,B
+Swaziland,SZ,B,B
+Chad,TD,B,B
+Togo (Togolese),TG,B,B
+Tanzanian,TZ,B,B
+Ugandan,UG,B,B
+Xhosa,X5,B,B
+Zulu,Z8,B,B
+South African,ZA,B,B
+Zambian,ZM,B,B
+Zimbabwean,ZW,B,B
+Basque,B3,H,H
+Caribbean African American,C3,B,B
+Equatorial Guinea,GQ,B,B
+Guyana (Guyanese),GY,X,H
+Hispanic,H5,H,H
+Portuguese,PT,H,H
+Surinamese,SR,X,H
+multi-ethnic,ZZ,Z,M
+Aleut,A4,N,N
+Fijian,FJ,P,P
+Hawaiian,H3,P,P
+Native American (American Indian),N3,N,N
+Nauruan,NR,P,P
+Papua New Guinean,PG,P,P
+Tongan,TO,P,P
+Vanuatuan ,VU,P,P
+Western Samoan,WS,P,P
+Arab,A7,I,W
+United Arab Emirates,AE,I,W
+Afghani,AF,A,W
+Albanian,AL,E,W
+Armenian,AM,C,W
+Austrian,AT,W,W
+Australian,AU,X,W
+Azerb (Azerbaijani),AZ,C,W
+Bosnian,BA,E,W
+Belgian,BE,W,W
+Bulgarian,BG,E,W
+Bahraini,BH,I,W
+Byelorussian (Belarusian),BY,E,W
+Chechnian (Chechnyan),C5,C,W
+Swiss,CH,W,W
+Serbian,CS,E,W
+Cypriot,CY,M,W
+Czech,CZ,E,W
+German,DE,W,W
+Danish,DK,S,W
+Algerian,DZ,I,W
+English,E5,W,W
+Estonian,EE,E,W
+Egyptian,EG,I,W
+Finnish,FI,S,W
+French,FR,W,W
+Georgian,GE,C,W
+Greek,GR,M,W
+Croatian,HR,E,W
+Hungarian,HU,E,W
+Irish,IE,W,W
+Manx (Isle of Man),IM,W,W
+Iraqi,IQ,I,W
+Icelandic,IS,S,W
+Italian,IT,M,W
+Jewish,J4,J,W
+Jordanian,JO,I,W
+Kurdish,K8,W,W
+Kuwaiti,KW,I,W
+Lebanese,LB,I,W
+Liechtenstein,LI,W,W
+Lithuanian,LT,E,W
+Luxembourgian,LU,W,W
+Latvian,LV,E,W
+Moroccan,MA,I,W
+Moldavian (Moldovan),MD,E,W
+Macedonian,MK,E,W
+Maltese,MT,M,W
+Dutch,NL,W,W
+Norwegian,NO,S,W
+New Zealand,NZ,X,W
+Omani,OM,I,W
+Persian,P4,I,W
+Polish,PL,E,W
+Qatari,QA,I,W
+Romanian,RO,E,W
+Russian,RU,E,W
+Scottish (Scotch),S3,W,W
+Saudi,SA,I,W
+Swedish,SE,S,W
+Slovenian (Slovene),SI,E,W
+Slovakian (Slovak),SK,E,W
+Syrian,SY,I,W
+Tunisian,TN,I,W
+Turkish,TR,W,W
+Ukrainian,UA,E,W
+Welsh,W4,W,W
+Yemeni,YE,I,W
+unknown,00,Z,Z
